@@ -1,0 +1,11 @@
+{
+  "testsiteurl" : "https://www.h3u.com/itgi/#!/login/",
+
+  "locators" : {
+    "homepage" : {
+      "username_textbox" : "logindata.loginid",
+      "password_textbox" : "logindata.userpassword",
+      "login_button_text" : "Log In"
+    }
+  }
+}
