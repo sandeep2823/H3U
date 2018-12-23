@@ -7,5 +7,11 @@
       "password_textbox" : "logindata.userpassword",
       "login_button_text" : "Log In"
     }
+  },
+  "test_data": {
+    "homepage" : {
+      "username" : "12345",
+      "password": "1234567"
+    }
   }
 }

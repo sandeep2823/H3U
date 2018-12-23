@@ -3,7 +3,7 @@ exports.config = {
     	directConnect : true,
 		framework: 'jasmine2',
 		seleniumAddress: 'http://localhost:4444/wd/hub',
-		specs: ['../test_spec/DashboardTest_spec.js'],
+		specs: ['../test_spec/DashboardTest_spec.js', '../test_spec/CustomerLoginTest_spec.js'],
 
 	onPrepare: function () {
 		browser.ignoreSynchronization=true;
