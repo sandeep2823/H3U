@@ -2,10 +2,753 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="237d8827-a234-4e0f-bb0f-92aba80c3c9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/conf/conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/ObjectRepository.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/ObjectRepository.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/DashboardPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/DashboardPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/conversions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-name/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-string/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-string/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-string/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-string/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-string/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/example/color-table/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colornames/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/examples/safe-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/examples/safe-string.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/custom/trap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/custom/trap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/custom/zalgo.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/custom/zalgo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/extendStringPrototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/extendStringPrototype.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/america.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/america.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/rainbow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/rainbow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/random.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/random.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/maps/zebra.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/maps/zebra.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/system/has-flag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/lib/system/supports-colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/lib/system/supports-colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/safe.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/safe.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/safe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colors/themes/generic-logging.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/colors/themes/generic-logging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colorspace/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colorspace/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colorspace/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colorspace/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colorspace/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/dist/diagnostics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/output.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diagnostics/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/enabled/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/env-variable/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/env-variable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/env-variable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/env-variable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/env-variable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/env-variable/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/benchmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/test-stable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-safe-stringify/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/fecha.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/fecha.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/fecha.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fecha/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/yarn-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-stream/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-stream/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-stream/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kuler/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kuler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kuler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kuler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kuler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kuler/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/align.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/colorize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/combine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/align.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/colorize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/combine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/label.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/levels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/logstash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/metadata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/pad-levels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/pretty-print.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/printf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/splat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/dist/uncolorize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/examples/combine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/examples/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/examples/invalid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/examples/metadata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/examples/padLevels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/examples/volume.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/label.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/levels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/logstash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/metadata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/pad-levels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/pretty-print.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/printf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/splat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/logform/uncolorize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/one-time/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/.jshintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/compact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/difference.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/drop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/dropRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/dropRightWhile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/dropWhile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/fill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/findIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/findLastIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/first.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/flatten.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/flattenDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/head.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/initial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/intersection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/last.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/lastIndexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/pull.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/pullAt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/remove.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/rest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/sortedIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/sortedLastIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/tail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/take.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/takeRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/takeRightWhile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/takeWhile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/union.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/uniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/unique.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/unzip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/unzipWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/without.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/xor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/zip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/zipObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/array/zipWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/chain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/commit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/lodash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/plant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/reverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/run.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/tap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/thru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/toJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/value.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/valueOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperChain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperCommit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperConcat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperPlant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperReverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/chain/wrapperValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/any.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/collect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/contains.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/countBy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/detect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/each.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/eachRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/every.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/findLast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/findWhere.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/foldl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/foldr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/forEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/forEachRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/groupBy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/include.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/includes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/indexBy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/inject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/invoke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/max.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/partition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/pluck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/reduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/reduceRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/reject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/shuffle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/some.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/sortBy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/sortByAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/sortByOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/sum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/collection/where.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/date/now.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/after.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/ary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/backflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/before.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/bindAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/bindKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/compose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/curry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/curryRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/debounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/defer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/flowRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/memoize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/modArgs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/negate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/once.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/partial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/partialRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/rearg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/restParam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/spread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/throttle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/function/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/LazyWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/LodashWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/MapCache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/SetCache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayConcat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayCopy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayEachRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayEvery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayExtremum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayPush.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayReduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arrayReduceRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arraySome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/arraySum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/assignDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/assignOwnDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/assignWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseAssign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseAt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseCallback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseClone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseCompareAscending.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseCopy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseCreate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseDelay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseDifference.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseEachRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseEvery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseExtremum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFindIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFlatten.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseForIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseForOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseForOwnRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseForRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseIndexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseIsEqual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseIsEqualDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseIsFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseIsMatch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseLodash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseMatches.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseMatchesProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseMerge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseMergeDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/basePropertyDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/basePullAt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseRandom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseReduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseSetData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseSome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseSortBy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseSortByOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseSum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseUniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseValues.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseWhile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/baseWrapperValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/binaryIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/binaryIndexBy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/bindCallback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/bufferClone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/cacheIndexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/cachePush.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/charsLeftIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/charsRightIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/compareAscending.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/compareMultiple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/composeArgs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/composeArgsRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createAggregator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createAssigner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createBaseEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createBaseFor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createBindWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createCache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createCompounder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createCtorWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createCurry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createExtremum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createFind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createFindIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createFindKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createFlow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createForEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createForIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createForOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createHybridWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createObjectMapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createPadDir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createPadding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createPartial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createPartialWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createReduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createRound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createSortedIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/createWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/deburrLetter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/equalArrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/equalByTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/equalObjects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/escapeHtmlChar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/escapeRegExpChar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/escapeStringChar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/getData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/getFuncName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/getLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/getMatchData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/getNative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/getView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/indexOfNaN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/initCloneArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/initCloneByTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/initCloneObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/invokePath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isArrayLike.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isIterateeCall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isLaziable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isObjectLike.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isSpace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/isStrictComparable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/lazyClone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/lazyReverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/lazyValue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/mapDelete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/mapGet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/mapHas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/mapSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/mergeData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/mergeDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/metaMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/pickByArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/pickByCallback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/reEscape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/reEvaluate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/reInterpolate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/realNames.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/reorder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/replaceHolders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/setData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/shimKeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/sortedUniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/toIterable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/toObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/toPath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/trimmedLeftIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/trimmedRightIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/unescapeHtmlChar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/internal/wrapperClone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/cloneDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/eq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/gt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/gte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isArguments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isBoolean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isDate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isEmpty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isEqual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isFinite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isMatch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isNaN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isNative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isNull.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isNumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isPlainObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isRegExp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isTypedArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/isUndefined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/lte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/toArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/lang/toPlainObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/ceil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/floor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/max.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/round.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/math/sum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/number/inRange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/number/random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/assign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/defaultsDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/extend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/findKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/findLastKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/forIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/forInRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/forOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/forOwnRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/get.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/has.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/invert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/keysIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/mapKeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/mapValues.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/merge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/omit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/pairs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/pick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/values.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/object/valuesIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/camelCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/capitalize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/deburr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/endsWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/escapeRegExp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/kebabCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/pad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/padLeft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/padRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/parseInt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/repeat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/snakeCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/startCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/startsWith.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/templateSettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/trim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/trimLeft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/trimRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/trunc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/unescape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/string/words.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/attempt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/constant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/identity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/iteratee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/matches.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/matchesProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/method.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/methodOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/noop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/property.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/propertyOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/times.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/node_modules/lodash/utility/uniqueId.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/protractor-jasmine2-screenshot-reporter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-swizzle/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-swizzle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-swizzle/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-swizzle/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/text-hex/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/text-hex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/text-hex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/text-hex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/text-hex/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/config/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/config/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/config/syslog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/triple-beam/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/fixtures/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/fixtures/legacy-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/fixtures/parent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/fixtures/simple-class-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/fixtures/simple-proto-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/inheritance.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/test/legacy.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston-transport/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/config/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/container.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston/container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/create-logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/exception-handler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/exception-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/profiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/tail-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/console.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/console.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/lib/winston/transports/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/00-file-stress.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/01-file-maxsize.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/console.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/file-maxfiles-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/winston/test/transports/file-maxfiles-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/file-tailrolling.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/file.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/http.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/test/transports/stream.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_spec/CustomerLoginTest_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_spec/CustomerLoginTest_spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_spec/DashboardTest_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_spec/DashboardTest_spec.js" afterDir="false" />
     </list>
@@ -23,8 +766,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/DashboardPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="520">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -32,8 +775,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="409">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/json/ObjectRepository.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -41,17 +793,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_spec/DashboardTest_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="58" />
+            <state relative-caret-position="420">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_spec/CustomerLoginTest_spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_spec/CustomerLoginTest_spec.js">
+        <entry file="file://$PROJECT_DIR$/mail.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="180">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -73,18 +848,20 @@
       <list>
         <option value="$PROJECT_DIR$/pages/homePage.js" />
         <option value="$PROJECT_DIR$/test_spec/CutomerLoginTest_spec.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/pages/BasePage.js" />
         <option value="$PROJECT_DIR$/json/ObjectRepository.json" />
         <option value="$PROJECT_DIR$/pages/HomePage.js" />
-        <option value="$PROJECT_DIR$/conf/conf.js" />
         <option value="$PROJECT_DIR$/pages/DashboardPage.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/log.js" />
         <option value="$PROJECT_DIR$/test_spec/DashboardTest_spec.js" />
         <option value="$PROJECT_DIR$/test_spec/CustomerLoginTest_spec.js" />
+        <option value="$PROJECT_DIR$/conf/conf.js" />
+        <option value="$PROJECT_DIR$/mail.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -107,22 +884,7 @@
             <path>
               <item name="H3U" type="b2602c69:ProjectViewProjectNode" />
               <item name="H3U" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="H3U" type="b2602c69:ProjectViewProjectNode" />
-              <item name="H3U" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="H3U" type="b2602c69:ProjectViewProjectNode" />
-              <item name="H3U" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="H3U" type="b2602c69:ProjectViewProjectNode" />
-              <item name="H3U" type="462c0819:PsiDirectoryNode" />
-              <item name="test_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="allure-results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,27 +931,27 @@
       <option name="presentableId" value="Default" />
       <updated>1544547012245</updated>
       <workItem from="1544547015997" duration="12248000" />
-      <workItem from="1545493849603" duration="7808000" />
+      <workItem from="1545493849603" duration="29669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20056000" />
+    <option name="totallyTimeSpent" value="41917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.0694051" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -203,20 +965,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json/ObjectRepository.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/BasePage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -231,33 +979,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/conf.js">
+    <entry file="file://$PROJECT_DIR$/conf/winston-basic.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results1/6c970926-3539-446a-bcff-e39d2f499e73-testsuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/d52d99f8179e637a63261a2207eee1f7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/htmlReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/6931f0e985fef609101da65b93ae4eb0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/419710c4c068343935b1fc9735672d62.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/0f823d890ba079a2c38343873bddc117.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/02d34416b0e58e285c78aa1db1d95b25.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/c38178433343751aa17e8363f00b9e15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/2d69557014adcd98bf9393ac9f3275b1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/47b9eadec42cad41561f095a34c07aa6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/c824007b1bfd4acc3d92b314492b9a03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-results/screenshots/986ef5dff744dfaf2cc154186c05afdf.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/DashboardPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="520">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_spec/DashboardTest_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="58" />
+        <state relative-caret-position="420">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/ObjectRepository.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_spec/CustomerLoginTest_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
