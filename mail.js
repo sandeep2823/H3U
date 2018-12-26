@@ -26,7 +26,7 @@ var mailOptions = {
     ]
 };
 transport.sendMail(mailOptions, function (error, response) {
-    if (error) {
+    if (error){
         console.log(error);
     } else {
         console.log("Message sent: " + response.message);
